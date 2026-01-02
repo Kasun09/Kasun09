@@ -1,7 +1,3 @@
-#  About Me:
- I’m currently working on<br>Production-ready frontend applications using React, Vite, and Tailwind CSS.<br><br> I’m looking to collaborate on<br>Frontend development projects, UI-driven web platforms, and open-source React initiatives.<br><br> I’m looking for help with<br>Scalable component design, performance optimization, and accessibility standards.<br><br> I’m currently learning<br>Advanced React patterns, modern JavaScript, and frontend architecture best practices.<br><br> Ask me about<br>React, JavaScript, Tailwind CSS, responsive design, and frontend workflows.<br><br> Fun fact<br>I focus on writing clean, maintainable UI code that scales well in real-world projects.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kasun__09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-bandara-384b12277/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kasungayan333@gmail.com) 
 
